@@ -13,7 +13,7 @@ package com.example.sample;
  */
 public class Sudoku {
 
-    /** {@code SIZE} stored size of Sudoku board. A Sudoku board has 9x9 cells. */
+    /** Stores size of Sudoku board. A Sudoku board has 9x9 cells. */
     private static final int SIZE = 9;
 
     /** Holds reference of Sudoku board. */
